@@ -4,7 +4,7 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/mcd.dev-58f2aa?style=for-the-badge&logo=googlechrome&logoColor=0a0c15)]([https://mcd.dev](https://mcd4hell.github.io/mcd/))
+[![Website](https://img.shields.io/badge/website-58f2aa?style=for-the-badge&logo=googlechrome&logoColor=0a0c15)](https://mcd4hell.github.io/mcd/)
 [![E-posta](https://img.shields.io/badge/mcdinspace@gmail.com-4be1d8?style=for-the-badge&logo=gmail&logoColor=0a0c15)](mailto:mcdinspace@gmail.com)
 [![Discord](https://img.shields.io/badge/Oirat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/oirat)
 
@@ -48,8 +48,8 @@ const mcd = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mcd4hell&show_icons=true&hide_border=true&bg_color=0a0c15&title_color=58f2aa&icon_color=4be1d8&text_color=c9d1d9&ring_color=58f2aa&locale=tr" alt="GitHub istatistikleri" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcd4hell&layout=compact&hide_border=true&bg_color=0a0c15&title_color=58f2aa&text_color=c9d1d9&locale=tr" alt="en çok kullanılan diller" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mcd4hell&show_icons=true&hide_border=true&bg_color=0a0c15&title_color=58f2aa&icon_color=4be1d8&text_color=c9d1d9&ring_color=58f2aa&locale=tr" alt="GitHub istatistikleri" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mcd4hell&layout=compact&hide_border=true&bg_color=0a0c15&title_color=58f2aa&text_color=c9d1d9&locale=tr" alt="en çok kullanılan diller" />
 
 <br><br>
 
@@ -57,7 +57,7 @@ const mcd = {
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mcd4hell&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub kupaları" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mcd4hell&bg_color=0a0c15&color=c9d1d9&line=58f2aa&point=4be1d8&area=true&area_color=58f2aa&hide_border=true&title_color=58f2aa" alt="katkı grafiği" />
 
 </div>
 
@@ -79,7 +79,7 @@ const mcd = {
 <div align="center">
 
 **Bir fikrin mi var? DM kutum açık.** 📬
-[mcd.is-a.dev](https://mcd.is-a.dev) · [mcdinspace@gmail.com](mailto:mcdinspace@gmail.com)
+[mcd4hell.github.io/mcd](https://mcd4hell.github.io/mcd/) · [mcdinspace@gmail.com](mailto:mcdinspace@gmail.com)
 
 <sub>psst: ↑↑↓↓←→←→BA — sitemde dene 😉</sub>
 
