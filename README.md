@@ -4,9 +4,9 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/mcd.is--a.dev-58f2aa?style=for-the-badge&logo=googlechrome&logoColor=0a0c15)](https://mcd.is-a.dev)
+[![Website](https://img.shields.io/badge/mcd.dev-58f2aa?style=for-the-badge&logo=googlechrome&logoColor=0a0c15)]([https://mcd.dev](https://mcd4hell.github.io/mcd/))
 [![E-posta](https://img.shields.io/badge/mcdinspace@gmail.com-4be1d8?style=for-the-badge&logo=gmail&logoColor=0a0c15)](mailto:mcdinspace@gmail.com)
-[![Discord](https://img.shields.io/badge/Oirat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Oirat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/oirat)
 
 <img src="https://komarev.com/ghpvc/?username=mcd4hell&style=flat-square&color=58f2aa&label=profil+ziyareti" alt="profil ziyaret sayacı" />
 
