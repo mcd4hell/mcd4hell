@@ -20,7 +20,7 @@
 const mcd = {
   konum: "Oirat, Türkiye 🇹🇷",
   rol: "Full-Stack Developer",
-  sunucu: "Oirat ⚔️ — kurucu & bot yazarı",
+  sunucu: "Oirat ⚔️ — Owner & Developer",
   stack: ["TypeScript", "React", "Next.js", "Node.js", "Tailwind"],
   müzik: "Tame Impala 🎧",
   yakıt: "kahve ☕ (kritik seviyede)",
